@@ -5,6 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
+# Ruby on Rails Tutorial: first application
+
+This is the first application for the 
+[* Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Harlt](http://michaelhartl.com/).
+
 * Ruby version
 
 * System dependencies
